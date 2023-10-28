@@ -11,3 +11,5 @@ export const GEO_API_URL = 'https://wft-geo-db.p.rapidapi.com/v1/geo';
 export const WEATHER_API_URL='https://api.openweathermap.org/data/2.5';
 export const WEATHER_API_KEY='08bae6079fd611bcecc971b41211e3ea';
 
+export const GMAP_API_KEY='AIzaSyDIp2H-WXcuF28h7pN_2il1PAb_Vu6xECA';
+

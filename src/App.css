@@ -2,3 +2,8 @@
   max-width: 1080px;
   margin: 20px auto;
 }
+
+.mapContainer{
+  position: relative;
+  top:100px;
+}
